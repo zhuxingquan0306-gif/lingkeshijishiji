@@ -1,0 +1,29 @@
+{
+  "name": "lingkeshiji",
+  "version": "1.0.0",
+  "description": "灵可世集 - 元宇宙本地生活平台，以社区积分驱动的全新电商生态",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server --port=3000"
+  },
+  "keywords": [
+    "metaverse",
+    "local-life",
+    "e-commerce",
+    "community-points",
+    "blockchain",
+    "web3"
+  ],
+  "author": "灵可世集团队",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhuxingquan0306-gif/lingkeshiji.git"
+  },
+  "homepage": "https://lingkeshiji.com",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "serve": "^14.2.1"
+  }
+}
